@@ -6,7 +6,7 @@ It includes different HTML tags and their usage with comments for learning purpo
 ## 📂 Project Structure
 - `index.html` → Main HTML file containing practice code
 - `hello.html` → Linked page inside the main page.
-- `image.png` → Images  used
+- `image.png` → Image  used
 
 ## ✨ What’s Inside
 This practice code demonstrates:
