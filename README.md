@@ -5,8 +5,8 @@ It includes different HTML tags and their usage with comments for learning purpo
 
 ## 📂 Project Structure
 - `index.html` → Main HTML file containing practice code
-- (Optional) `style.css` → Can be added later for styling
-- `assets/` → (Optional) images or resources if used
+- `hello.html` → Linked page inside the main page.
+- `image.png` → Images  used
 
 ## ✨ What’s Inside
 This practice code demonstrates:
